@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddressTestApp</string>
+    <string name="name">氏名</string>
+    <string name="phone_num">電話番号</string>
+    <string name="fax_num">Fax</string>
+    <string name="email">メール</string>
+    <string name="note">メモ</string>
+</resources>
